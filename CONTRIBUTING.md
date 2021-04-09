@@ -102,7 +102,7 @@ This section is for terminology specifically related to Substrate.
 
 These are style guidelines that can help create clearer documentation. For anything not addessed
 here, use
-[The Economist](https://bordeure.files.wordpress.com/2008/11/the-economist-style-guide.pdf).
+[The Economist](https://www.goodreads.com/search?q=The+Economist+Style+Guide).
 
 - **Write in plain U.S. English.** You should write in plain U.S. English and try to avoid
   complicated words when you describe something.
